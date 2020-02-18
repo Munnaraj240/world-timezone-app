@@ -13,6 +13,6 @@ pipeline
 		bat 'mvn pacakage deploy -DmuleDeploy'
 			}
 		}
-		
+	
 	}
 }
